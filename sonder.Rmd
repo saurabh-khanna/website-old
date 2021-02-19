@@ -1,0 +1,176 @@
+---
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    seal: false
+---
+
+class: center, middle
+
+# S`r emo::ji("balloon")`n d e r
+
+Enabling fairer knowledge search
+
+???
+
+Hi everyone, we are team Sonder. And we are building an open source search platform that enables a fairer access to human knowledge.
+
+---
+
+class: inverse, middle
+
+# Our search for knowledge 
+
+--
+
+# is biased
+
+--
+
+# by design
+
+---
+
+class: inverse, middle
+
+# Search algorithms
+
+--
+
+<br/>
+`r emo::ji("man")` _trained_ on ~~diverse~~ mainstream data
+
+--
+
+`r emo::ji("moneybag")` _trained_ to maximize ~~understanding~~ consumption
+
+--
+
+`r emo::ji("lock")` licensed as ~~open-source~~ proprietary
+
+--
+
+<br/><br/>
+This robs us of the _**choice**_ to understand those who learn, think, and grow differently. 
+
+
+---
+
+class: middle
+
+S`r emo::ji("balloon")`nder is our attempt to make this _**choice**_ explicit.
+
+--
+
+<br/><br/>
+
+
+*son-der (n.)*
+
+> the realization that each random passerby is living a life as vivid and complex as your own
+
+---
+
+class: middle
+
+# S🎈n d e r
+
+--
+
+<br/>
+🔍 _searches the web_
+
+--
+
+`r emo::ji("rainbow")` _evaluates diversity_
+
+--
+
+`r emo::ji("old_key")` _respects privacy_ 
+
+--
+
+`r emo::ji("penguin")` _is open-source_
+
+--
+
+`r emo::ji("heart")` _is a nonprofit_
+
+---
+
+
+class: middle, center
+
+# 🎬
+
+<br/>
+
+.pull-left[
+# Bias
+]
+
+.pull-right[
+# ⚖️ Balance
+]
+
+---
+
+class: middle
+
+> ### Choice
+> Our knowledge, our choice
+
+--
+
+<br/>
+> ### Mindfulness
+> Make biases explicit
+
+--
+
+<br/>
+> ### Change
+> Change, not compete
+
+---
+
+class: middle
+
+# `r emo::ji("baby_chick")` Help us grow as a nonprofit
+
+<br/>
+
+`r emo::ji("seedling")` Web hosting
+
+`r emo::ji("seedling")` Front end development
+
+`r emo::ji("seedling")` Team building
+
+`r emo::ji("seedling")` Setting up web crawlers and indexers
+
+
+---
+
+class: middle
+
+# S`r emo::ji("balloon")`n d e r
+
+<br/>
+Saurabh Khanna<br/>
+PhD candidate, Education Policy (CS PhD minor), Stanford<br/>
+<saurabhkhanna@stanford.edu>
+
+<br/>
+Shruti Jain<br/>
+MPP, UC Berkeley<br/>
+<shruti_jain@berkeley.edu>
+
+<br/><br/>
+We are on GitHub<br/>
+<https://github.com/sonder-labs/sonder>
+
