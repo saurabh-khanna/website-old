@@ -71,9 +71,10 @@ S`r emo::ji("balloon")`nder is our attempt to make this _**choice**_ explicit.
 <br/><br/>
 
 
-*son-der (n.)*
+*son* $\cdot$ *der (n.)*
 
 > the realization that each random passerby is living a life as vivid and complex as your own
+
 
 ---
 
@@ -81,18 +82,23 @@ class: middle
 
 # S🎈n d e r
 
+<br/>
+
 --
 
-<br/>
 🔍 _searches the web_
 
 --
 
-`r emo::ji("rainbow")` _evaluates diversity_
+`r emo::ji("megaphone")` _evaluates bias_
 
 --
 
-`r emo::ji("old_key")` _respects privacy_ 
+`r emo::ji("balance_scale")` _balances relevance and diversity_
+
+--
+
+`r emo::ji("old_key")` _respects privacy_
 
 --
 
@@ -100,7 +106,8 @@ class: middle
 
 --
 
-`r emo::ji("heart")` _is a nonprofit_
+`r emo::ji("heart")` _will be a nonprofit_
+
 
 ---
 
@@ -112,7 +119,7 @@ class: middle, center
 <br/>
 
 .pull-left[
-# Bias
+# `r emo::ji("mega")` Bias
 ]
 
 .pull-right[
@@ -123,20 +130,20 @@ class: middle, center
 
 class: middle
 
-> ### Choice
+# `r emo::ji("superhero")` Choice
 > Our knowledge, our choice
 
 --
 
 <br/>
-> ### Mindfulness
+# `r emo::ji("bulb")` Awareness
 > Make biases explicit
 
 --
 
 <br/>
-> ### Change
-> Change, not compete
+# `r emo::ji("leaves")` Change
+> Change > Competition 
 
 ---
 
@@ -172,6 +179,5 @@ MPP, UC Berkeley<br/>
 <shruti_jain@berkeley.edu>
 
 <br/><br/>
-We are on GitHub<br/>
-<https://github.com/sonder-labs/sonder>
+Reach out to us for feedback, collaboration, and support!
 
