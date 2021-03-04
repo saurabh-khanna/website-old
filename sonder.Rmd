@@ -17,14 +17,47 @@ class: center, middle
 
 Enabling fairer knowledge search
 
+<br/>
+.pull-left[
+Saurabh Khanna
+
+Stanford University
+]
+
+.pull-right[
+Shruti Jain
+
+UC Berkeley
+]
+
 ???
 
 Hi everyone, we are team Sonder. And we are building an open source search platform that enables a fairer access to human knowledge.
 
 ---
 
-class: inverse, middle
+class: inverse
 
+.right[
+### S🎈nder
+]
+
+<br/><br/>
+# Our world today
+
+--
+
+# is polarizing
+
+---
+
+class: inverse
+
+.right[
+### S🎈nder
+]
+
+<br/><br/>
 # Our search for knowledge 
 
 --
@@ -37,8 +70,13 @@ class: inverse, middle
 
 ---
 
-class: inverse, middle
+class: inverse
 
+.right[
+### S🎈nder
+]
+
+<br/><br/>
 # Search algorithms today
 
 --
@@ -57,32 +95,23 @@ class: inverse, middle
 --
 
 <br/><br/>
-This robs us of the _**choice**_ to understand those who learn, think, and grow differently. 
+We are robbed of the _**choice**_ to understand those who learn, think, and grow differently. 
 
 
 ---
 
-class: middle
+.right[
+### S🎈nder
+]
 
-S`r emo::ji("balloon")`nder is our attempt to make this _**choice**_ explicit.
+<br/><br/>
+Sonder is our attempt to make this _**choice**_ explicit.
 
 --
 
-<br/><br/>
-
-
-*son* $\cdot$ *der (n.)*
-
-> the realization that each random passerby is living a life as vivid and complex as your own
-
-
----
-
-class: middle
-
-# S🎈n d e r
-
 <br/>
+
+### S🎈n d e r
 
 --
 
@@ -108,12 +137,15 @@ class: middle
 
 `r emo::ji("heart")` _will be a nonprofit_
 
-
 ---
 
+class: center
 
-class: middle, center
+.right[
+### S🎈nder
+]
 
+<br/><br/>
 # 🎬
 
 <br/>
@@ -128,47 +160,54 @@ class: middle, center
 
 ---
 
-class: middle
+.right[
+### S🎈nder
+]
 
-# `r emo::ji("superhero")` Choice
-> Our knowledge, our choice
+<br/><br/>
 
---
-
-<br/>
-# `r emo::ji("bulb")` Awareness
-> Make biases explicit
-
---
+# `r emo::ji("hatching_chick")` Plans to grow
 
 <br/>
-# `r emo::ji("leaves")` Change
-> Change > Competition 
+
+`r emo::ji("seedling")` Initial push comes from grants
+
+`r emo::ji("seedling")` Sustain through ongoing donations, volunteer support
+
+`r emo::ji("seedling")` We do not aim to reach X number of users in X years. Or to compete with Google, Bing etc. We wish to provide an alternative which is unbiased, open-source, and volunteer driven 
+
 
 ---
 
-class: middle
+.right[
+### S🎈nder
+]
+
+<br/><br/>
 
 # `r emo::ji("baby_chick")` Help us grow as a nonprofit
 
 <br/>
 
-`r emo::ji("seedling")` Web hosting
+`r emo::ji("evergreen_tree")` Web hosting
 
-`r emo::ji("seedling")` Front end development
+`r emo::ji("evergreen_tree")` Front end development
 
-`r emo::ji("seedling")` Team building
+`r emo::ji("evergreen_tree")` Team building
 
-`r emo::ji("seedling")` Setting up web crawlers and indexers
+`r emo::ji("evergreen_tree")` Setting up web crawlers and indexers
 
 
 ---
 
-class: middle
 
-# S`r emo::ji("balloon")`n d e r
+.right[
+### S🎈nder
+]
 
-<br/>
+<br/><br/>
+# Team
+
 Saurabh Khanna<br/>
 PhD candidate, Education Policy (CS PhD minor), Stanford<br/>
 <saurabhkhanna@stanford.edu>
@@ -178,6 +217,18 @@ Shruti Jain<br/>
 MPP, UC Berkeley<br/>
 <shruti_jain@berkeley.edu>
 
-<br/><br/>
-Reach out to us for feedback, collaboration, and support!
+
+---
+
+.right[
+### S🎈nder
+]
+
+<br/><br/><br/><br/><br/><br/>
+
+.center[
+*son* $\cdot$ *der (n.)*
+
+the realization that each random passerby is living a life as vivid and complex as your own
+]
 
