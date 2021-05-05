@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Saurabh Khanna</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://saurabh-khanna.github.io/categories/</link>
+      <atom:link href="https://saurabh-khanna.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu5e8eb7ce6d5a1ff0ae2af8c132ce10fc_15074_512x512_fill_lanczos_center_2.png</url>
+      <url>https://saurabh-khanna.github.io/images/icon_hu5e8eb7ce6d5a1ff0ae2af8c132ce10fc_15074_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://saurabh-khanna.github.io/categories/</link>
     </image>
     
   </channel>
