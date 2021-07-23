@@ -1,0 +1,310 @@
+---
+title: "S🎈n d e r"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    seal: false
+---
+
+class: center, middle, bg1
+
+# S`r emo::ji("balloon")`n d e r
+
+_Enabling fairer knowledge search_
+
+<br/>
+.pull-left[
+Saurabh Khanna
+
+Stanford University
+]
+
+.pull-right[
+Shruti Jain
+
+UC Berkeley
+]
+
+---
+
+class: bg2
+
+.right[
+### S🎈n d e r
+]
+
+# Our world today 
+# is increasingly polarized
+
+```{css, echo = F}
+.bg1 {
+  position: relative;
+  z-index: 1;
+}
+
+.bg1::before {    
+      content: "";
+      background-image: url('diverse-crowds.png');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.075;
+      z-index: -1;
+}
+
+.bg2 {
+  position: relative;
+  z-index: 1;
+}
+
+.bg2::before {    
+      content: "";
+      background-image: url('southasia.jpg');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.45;
+      z-index: -1;
+}
+
+.bg3 {
+  position: relative;
+  z-index: 1;
+}
+
+.bg3::before {    
+      content: "";
+      background-image: url('nyt.jpg');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.35;
+      z-index: -1;
+}
+
+.bg4 {
+  position: relative;
+  z-index: 1;
+}
+
+.bg4::before {    
+      content: "";
+      background-image: url('dilemma.jpg');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.20;
+      z-index: -1;
+}
+```
+
+
+---
+
+class: bg3
+
+.right[
+### S🎈n d e r
+]
+
+# Driven by a _search_ for knowledge 
+
+# that is biased by design
+
+---
+
+class: bg4
+
+.right[
+### S🎈n d e r
+]
+
+<br/><br/>
+# Search algorithms today
+
+--
+
+<br/>
+`r emo::ji("man")` _trained_ on ~~diverse~~ mainstream data
+
+--
+
+`r emo::ji("moneybag")` _trained_ to maximize ~~understanding~~ consumption
+
+--
+
+`r emo::ji("lock")` licensed as ~~open-source~~ proprietary
+
+--
+
+<br/><br/>
+We are robbed of the _**choice**_ to understand those who learn, think, and grow differently. 
+
+
+---
+
+.right[
+### S🎈n d e r
+]
+
+<br/><br/>
+Sonder is our attempt to make this _**choice**_ explicit.
+
+--
+
+<br/>
+
+### S🎈n d e r
+
+--
+
+.pull-left[
+🔍 _searches the web_
+
+`r emo::ji("megaphone")` _evaluates bias_
+
+`r emo::ji("balance_scale")` _balances relevance and diversity_
+]
+
+--
+
+.pull-right[
+`r emo::ji("old_key")` _respects privacy_
+
+`r emo::ji("penguin")` _is open-source_
+
+`r emo::ji("heart")` _will be a nonprofit_
+]
+
+---
+
+class: center
+
+.right[
+### S🎈n d e r
+]
+
+<br/><br/>
+# 🎬
+[sonder.care](https://www.sonder.care/)
+
+<br/>
+
+.pull-left[
+# `r emo::ji("mega")` Bias
+How fair is your knowledge search?
+]
+
+.pull-right[
+# ⚖️ Balance
+Enable fair-_er_ knowledge search
+]
+
+---
+
+.right[
+### S🎈n d e r
+]
+
+
+# `r emo::ji("hatching_chick")` Plans to grow
+
+<br/>
+.center[`r emo::ji("heart")` We envision Sonder as a 501(c)(3) nonprofit entity]
+<br/>
+--
+
+.pull-left[
+`r emo::ji("x")` Compete for user base with search giants like Google
+
+`r emo::ji("heavy_check_mark")` Provide the first unbiased, open-source, volunteer driven search alternative
+]
+
+--
+
+.pull-right[
+`r emo::ji("seedling")` Initial push from grants
+
+`r emo::ji("seedling")` Sustenance through ongoing donations
+
+`r emo::ji("seedling")` Volunteer support from the open-source community
+
+`r emo::ji("seedling")` Similar models: Signal, Node.js, Ruby Together...
+]
+
+
+---
+
+.right[
+### S🎈n d e r
+]
+
+<br/><br/>
+
+# `r emo::ji("baby_chick")` Help us grow as a nonprofit
+
+<br/>
+
+`r emo::ji("evergreen_tree")` Web hosting
+
+`r emo::ji("evergreen_tree")` Front end development
+
+`r emo::ji("evergreen_tree")` Team building
+
+`r emo::ji("evergreen_tree")` Setting up web crawlers and indexers
+
+
+---
+
+
+.right[
+### S🎈n d e r
+]
+
+<br/><br/>
+# `r emo::ji("tanabata_tree")` Team
+
+<br/>
+Saurabh Khanna<br/>
+PhD candidate, Education Policy (CS PhD minor), Stanford<br/>
+<saurabhkhanna@stanford.edu>
+
+<br/>
+Shruti Jain<br/>
+MPP, UC Berkeley<br/>
+<shruti_jain@berkeley.edu>
+
+
+---
+
+class: bg1
+
+.right[
+### S🎈n d e r
+]
+
+<br/><br/><br/><br/><br/><br/>
+
+.center[
+*son* $\cdot$ *der (n.)*
+
+the realization that each random passerby is living a life as vivid and complex as your own
+]
+
